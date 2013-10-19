@@ -1,0 +1,6 @@
+Created by: Earl Lean B. Ramos
+Created Date/Time: 07-26-13/9:42 PM
+
+-Disable the Clean files if the user is not scanning files
+-Enable Clean files when the user finish in scanning
+-Add Output to XML
