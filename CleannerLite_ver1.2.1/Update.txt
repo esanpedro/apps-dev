@@ -1,0 +1,4 @@
+Created by: Lorvic Angelo Crucena
+Created Date/Time: 08-10-13/1:50 PM
+
+-fixed bugs at selecting on scan path
